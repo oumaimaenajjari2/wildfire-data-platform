@@ -6,6 +6,7 @@ dependencies = ["pandas", "duckdb", "pyarrow"]
 
 [project.optional-dependencies]
 dev = ["pytest"]
+flows = ["prefect>=3"]
 
 [build-system]
 requires = ["setuptools>=68"]

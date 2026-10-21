@@ -7,3 +7,4 @@ __pycache__/
 .pytest_cache/
 data/processed/
 data/warehouse/
+*.egg-info/
