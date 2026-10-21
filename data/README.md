@@ -12,14 +12,14 @@ All files use the VIIRS S-NPP 375 m product, standard processing, with yearly da
 
 | File | Country | Year |
 |------|---------|------|
-| viirs-snpp_2012_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2013_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2014_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2015_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2016_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2017_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2018_Morocco.csv | Morocco | 2025 |
-| viirs-snpp_2019_Morocco.csv | Morocco | 2025 |
+| viirs-snpp_2012_Morocco.csv | Morocco | 2012 |
+| viirs-snpp_2013_Morocco.csv | Morocco | 2013 |
+| viirs-snpp_2014_Morocco.csv | Morocco | 2014 |
+| viirs-snpp_2015_Morocco.csv | Morocco | 2015 |
+| viirs-snpp_2016_Morocco.csv | Morocco | 2016 |
+| viirs-snpp_2017_Morocco.csv | Morocco | 2017 |
+| viirs-snpp_2018_Morocco.csv | Morocco | 2018 |
+| viirs-snpp_2019_Morocco.csv | Morocco | 2019 |
 | viirs-snpp_2020_Morocco.csv | Morocco | 2020 |
 | viirs-snpp_2021_Morocco.csv | Morocco | 2021 |
 | viirs-snpp_2022_Morocco.csv | Morocco | 2022 |
