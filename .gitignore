@@ -5,3 +5,5 @@ data/raw/*
 *.duckdb
 __pycache__/
 .pytest_cache/
+data/processed/
+data/warehouse/
